@@ -1,4 +1,4 @@
-# Learn SPring framework
+# Learn Spring Framework
 
 Proposed project: Online Food Ordering System
 ---
