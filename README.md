@@ -1,5 +1,6 @@
-# DoorDashPlus
-Online Food Ordering System
+# Learn SPring framework
+
+Proposed project: Online Food Ordering System
 ---
 
 * Implemented RESTful APIs via Spring MVC including registration, menu searching, ordering and checkout.
