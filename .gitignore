@@ -1,0 +1,33 @@
+/springCoreDemo/HELP.md
+/springCoreDemo/target/
+/springCoreDemo/!.mvn/wrapper/maven-wrapper.jar
+/springCoreDemo/!**/src/main/**/target/
+/springCoreDemo/!**/src/test/**/target/
+
+### STS ###
+/springCoreDemo/.apt_generated
+/springCoreDemo/.classpath
+/springCoreDemo/.factorypath
+/springCoreDemo/.project
+/springCoreDemo/.settings
+/springCoreDemo/.springBeans
+/springCoreDemo/.sts4-cache
+
+### IntelliJ IDEA ###
+/springCoreDemo/.idea
+/springCoreDemo/*.iws
+/springCoreDemo/*.iml
+/springCoreDemo/*.ipr
+
+### NetBeans ###
+/springCoreDemo/nbproject/private/
+/springCoreDemo/nbbuild/
+/springCoreDemo/dist/
+/springCoreDemo/nbdist/
+/springCoreDemo/.nb-gradle/
+/springCoreDemo/build/
+/springCoreDemo/!**/src/main/**/build/
+/springCoreDemo/!**/src/test/**/build/
+
+### VS Code ###
+/springCoreDemo/.vscode/
